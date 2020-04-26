@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I2XteOZ1fRtYPkkSKOm0WSm0wdppEMytfYVLmRaSLfsbMnlbEq57LFGXoYgvltE0rSE2lK7g61spdSsE+ZCI9Q==",
+  "success": true,
+  "projectFilePath": "C:\\proyect\\Taxi\\Taxi.Cross.iOS\\Taxi.Cross.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
